@@ -1,0 +1,6 @@
+restapi/User.class
+restapi/UsersResource.class
+restapi/UserResource.class
+restapi/OfyHelper.class
+restapi/WebServiceApplication.class
+restapi/ErrorMessage.class
